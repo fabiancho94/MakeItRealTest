@@ -1,0 +1,32 @@
+body{
+  background:
+  url('https://images.pexels.com/photos/724712/pexels-photo-724712.jpeg?cs=srgb&dl=backlit-curve-dark-724712.jpg&fm=jpg');
+  background-size: cover;
+  min-height: 600px;
+  font-family: 'Indie Flower', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+  height: 150px;
+  width: 140px;
+  border-radius: 50%;
+  border: 5px solid white;
+
+}
+h1 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.container{
+  text-align: center;
+}
+
+.profile{
+
+}
+.userInfo{
+  color: white;
+}
